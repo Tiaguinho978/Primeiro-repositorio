@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: rgba(219, 36, 3, 0.836);
+}
+
+body{
+    color: rgb(182, 66, 20);
+    background-color: black;
+}
+.centro{
+    text-align: center;
+}
+
+.ft1 { border: darkred;
+    margin-left: 650px;
+    height: 250px;
+}
+
